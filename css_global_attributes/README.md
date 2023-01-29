@@ -6,4 +6,5 @@ Styled first webpage by adding global attributes to HTML elements.
 
 ## Roadmap
 
-- added class attribute for `<se ction>` HTML elements
+- added class attribute for `<section>` HTML elements
+- added id attributes for `<email>`, `<github>` & `<portfolio>` HTML list items
