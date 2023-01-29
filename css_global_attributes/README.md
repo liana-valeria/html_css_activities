@@ -8,3 +8,4 @@ Styled first webpage by adding global attributes to HTML elements.
 
 - added class attribute for `<section>` HTML elements
 - added id attributes for `<email>`, `<github>` & `<portfolio>` HTML list items
+- added profile image relative path and descriptive `alt` attribute
